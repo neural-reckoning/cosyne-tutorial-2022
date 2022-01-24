@@ -4,6 +4,8 @@ If you're going to be going to the [Cosyne meeting](https://www.cosyne.org/) in 
 
 You will need to be available on the day of the tutorial, have time to go through the material beforehand (including trying the exercises and familiarising yourself with the answers), and taking part in one or two (online) practice sessions.
 
+* [Teaching assistant sign up form](https://forms.office.com/r/jzV2FY8nB0)
+
 # Draft course outline
 
 The following is just a very brief outline of the course while the details are being finalised. Note that this is a draft and is still subject to change. It's just to give an idea of roughly what will be included.
