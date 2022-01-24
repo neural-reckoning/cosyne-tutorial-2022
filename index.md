@@ -1,8 +1,8 @@
 # Recruiting teaching assistants
 
-If you're going to be going to the Cosyne meeting in 2022, and you're interested in taking part as a teaching assistant for the tutorial, please register your interest on the [sign up form](https://forms.office.com/r/jzV2FY8nB0) as soon as possible! At the moment, I can't guarantee exactly what we can offer in terms of payment, but hopefully it will be something.
+If you're going to be going to the [Cosyne meeting](https://www.cosyne.org/) in 2022, and you're interested in taking part as a teaching assistant for the [tutorial](https://www.cosyne.org/tutorials), please register your interest on the [sign up form](https://forms.office.com/r/jzV2FY8nB0) as soon as possible! At the moment, I can't guarantee exactly what we can offer in terms of payment, but hopefully it will be something.
 
-You will need to be available on the day of the tutorial, have time to go through the material beforehand (including trying the exercises and familiarising yourself with the answers), and taking part in one or two practice sessions.
+You will need to be available on the day of the tutorial, have time to go through the material beforehand (including trying the exercises and familiarising yourself with the answers), and taking part in one or two (online) practice sessions.
 
 # Draft course outline
 
