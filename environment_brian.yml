@@ -1,0 +1,11 @@
+name: cosyne22_brian
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - brian2
+  - matplotlib
+  - jupyter
+  - notebook
+  - ipykernel
+  - ipywidgets
