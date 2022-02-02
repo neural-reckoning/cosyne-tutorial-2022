@@ -9,3 +9,4 @@ dependencies:
   - notebook
   - ipykernel
   - ipywidgets
+  - ipympl
