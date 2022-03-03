@@ -1,0 +1,8 @@
+python==3
+brian2
+matplotlib
+jupyter
+notebook
+ipykernel
+ipywidgets
+ipympl
