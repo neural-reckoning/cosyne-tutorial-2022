@@ -1,0 +1,14 @@
+name: cosyne22_torch
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3
+  - matplotlib
+  - jupyter
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - ipympl
+  - pytorch
+  - cpuonly
