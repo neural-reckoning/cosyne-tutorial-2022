@@ -14,7 +14,7 @@ Wi-Fi might be flaky and not able to handle all participants simultaneously.
 
 If you have a Google account, launch with Colab.
 If you are in a country that blocks Google, such as China, you can try
-using Kaggle instead. [Some instructions from Neuromatch Academy are here.](https://deeplearning.neuromatch.io/tutorials/TechnicalHelp/Tutorial_kaggle.html)
+using Kaggle instead.
 
 ### Part 1 – "Classical" spiking neural networks
 
