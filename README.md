@@ -14,7 +14,9 @@ Wi-Fi might be flaky and not able to handle all participants simultaneously.
 
 If you have a Google account, you can launch with Colab.
 If you are in a country that blocks Google, such as China, use Kaggle.
-(To have the notebook kernel on Kaggle persist more than 15', register for a Kaggle account).
+(To have the notebook kernel on Kaggle persist more than 15 minutes, register for a Kaggle account).
+If you are on mobile and want to just read the notebooks:
+Colab offers a better experience than Kaggle or the GitHub notebook renderer.
 
 **Part 1 • "Classical" spiking neural networks**
 
@@ -71,7 +73,7 @@ In more detail (click on a section to expand it):
   Uncompress the downloaded `.zip` to a location of your choosing.
 
 - Alternatively, if you use Git, you can `git clone` this repository
-  (or even a new GitHub fork of it, if you plan on contributing).
+  (or even a new GitHub fork of it, if you think you might contribute in the future).
 </details>
 
 <details>
@@ -92,22 +94,23 @@ In more detail (click on a section to expand it):
   ```
   cd C:\Users\jane\Desktop\cosyne-tutorial-2022-main\
   ```
-  (If you `git clone`d the repository, the directory is just called `cosyne-tutorial-2022`).
+  (If you `git clone`d the repository, the directory is just called
+  `cosyne-tutorial-2022`, without the branch name `-main`).
   
 - Alternatively, you can directly open a terminal in the right directory
-  from your OS's file explorer (Explorer on Windows, GNOME on Ubuntu, …),
+  using your OS's file explorer (Explorer on Windows, GNOME on Ubuntu, …),
   by right clicking in the directory.
   - If you've installed Windows Terminal or are e.g. on Ubuntu,
     simply select "Open in (Windows) Terminal" from the right-click menu.
-  - This is not applicable to vanilla Windows (you could hold `Shift`
+  - This is not applicable to vanilla Windows. (You could hold `Shift`
     while right clicking, and then select "Open PowerShell window here",
-    but the `jupyter notebook` command of the last step does not work
+    but the `jupyter notebook` command below does not work
     by default in PowerShell).
   
 - Your final directory should be the one where this `README.md` 
   and the `environment_{brian|torch}.yml` files are located.
-  Use `ls` (or `dir` in Windows' `cmd.exe`) to see a list of the files
-  in the current directory.
+  Use `ls` (or `dir` in Windows' Command Prompt) 
+  to see a list of the files in the current directory.
 </details>
 
 <details>
@@ -117,7 +120,8 @@ In more detail (click on a section to expand it):
   ```
   conda env create -f environment_brian.yml
   ```
-  This will download and install all dependencies. It will likely take a while.
+  This will download and install all dependencies.
+  It will take a while.
   
 - If any errors pop up, retry the command with elevated privileges.
   - On Windows, close the terminal and reopen it with "Run as Administrator".
