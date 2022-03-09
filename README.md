@@ -39,10 +39,12 @@ conda activate cosyne22_brian
 jupyter notebook
 ```
 This is for the first part (which uses [Brian](https://brian2.readthedocs.io/)).
-For the second part, you need to make a second environment (because it uses PyTorch), do the same as above but change to the following:
+
+For the second part (which uses PyTorch), you need to create a second environment:
 ```
 conda env create -f environment_torch.yml
 conda activate cosyne22_torch
+jupyter notebook
 ```
 
 In more detail (click on a section to expand it):
@@ -88,8 +90,9 @@ In more detail (click on a section to expand it):
   to the exercise directory. For example, if you extracted the `.zip` contents
   to `C:\Users\jane\Desktop`, run
   ```
-  cd C:\Users\jane\Desktop\cosyne-tutorial-2022\
+  cd C:\Users\jane\Desktop\cosyne-tutorial-2022-main\
   ```
+  (If you `git clone`d the repository, the directory is just called `cosyne-tutorial-2022`).
   
 - Alternatively, you can directly open a terminal in the right directory
   from your OS's file explorer (Explorer on Windows, GNOME on Ubuntu, …),
@@ -153,7 +156,12 @@ In more detail (click on a section to expand it):
 </details>
 
 <details>
-<summary>6. <b>Repeat for Exercise Part 2</b></summary>
+<summary>6. <b>Repeat for Part 2 of the tutorial</b></summary>
 
-- For Part 2 of the tutorial (using pytorch), repeat steps 4 & 5, but replace `cosyne22_brian` with `cosyne22_torch`.
+- For Part 2, repeat steps 4 & 5,
+  but replace `environment_brian.yml` with `environment_torch.yml`,
+  and `cosyne22_brian` with `cosyne22_torch`.
+  
+- The reason we need two separate environments is that PyTorch 
+  is difficult to install in the same environment as Brian.
 </details>
