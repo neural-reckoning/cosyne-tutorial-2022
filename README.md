@@ -88,16 +88,20 @@ In more detail (click on a section to expand it):
   cd C:\Users\jane\Desktop\cosyne-tutorial-2022-main
   ```
   
-- Alternatively, you can open a terminal in the right directory directly
+- Alternatively, you can directly open a terminal in the right directory
   from your OS's file explorer (Explorer on Windows, GNOME on Ubuntu, …),
   by right clicking in the directory.
   - If you've installed Windows Terminal or are e.g. on Ubuntu,
     simply select "Open in (Windows) Terminal" from the right-click menu.
-  - If using vanilla Windows, hold `Shift` while right-clicking,
-    then select "Open PowerShell window here" from the right-click menu.
+  - This is not applicable to vanilla Windows (you could hold `Shift`
+    while right clicking, and then select "Open PowerShell window here",
+    but the `jupyter notebook` command of the last step does not work
+    by default in PowerShell).
   
 - Your final directory should be the one where this `README.md` 
-  and the `environent_….yml` files are located.
+  and the `environment_{brian|torch}.yml` files are located.
+  Use `ls` (or `dir` in Windows' `cmd.exe`) to see a list of the files
+  in the current directory.
 </details>
 
 <details>
