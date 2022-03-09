@@ -47,12 +47,16 @@ In more detail (click on a section to expand it):
 <details>
 <summary>1. <b>Install Conda</b></summary>
 
-- If you do not have `conda` already installed, 
-  download and run the latest _Miniconda_ installer for your OS 
-  [here](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links).  
+- If you do not have `conda` already installed, download and run 
+  the latest _Miniconda_ installer for your OS over at
+  https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links.
 
-- For Windows users: in step 5 of the installer ("Advanced Options"),
+- On Windows: in step 5 of the installer ("Advanced Options"),
   tick the checkbox next to "Add Miniconda3 to my PATH environment variable".
+  
+- On MacOS, Ubuntu, etc, run `chmod +x` on the downloaded `.sh` file, then run it
+  with `./Miniconda3-latest-{os}-{arch}.sh`.
+  On Mac, you can also download the `.pkg` file and install that.
 </details>
 
 <details>
