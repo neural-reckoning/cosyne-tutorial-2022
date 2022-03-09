@@ -39,8 +39,11 @@ conda activate cosyne22_brian
 jupyter notebook
 ```
 This is for the first part (which uses [Brian](https://brian2.readthedocs.io/)).
-For the second part (which uses PyTorch), do the same 
-but with `-f environment_torch.yml` and `activate cosyne22_torch`.
+For the second part, you need to make a second environment (because it uses PyTorch), do the same as above but change to the following:
+```
+conda env create -f environment_torch.yml
+conda activate cosyne22_torch
+```
 
 In more detail (click on a section to expand it):
 
@@ -54,9 +57,9 @@ In more detail (click on a section to expand it):
 - On Windows: in step 5 of the installer ("Advanced Options"),
   tick the checkbox next to "Add Miniconda3 to my PATH environment variable".
   
-- On MacOS, Ubuntu, etc, run `chmod +x` on the downloaded `.sh` file, then run it
+- On MacOS, Ubuntu, etc, go to 'Terminal' and run `chmod +x` on the downloaded `.sh` file, then run it
   with `./Miniconda3-latest-{os}-{arch}.sh`.
-  On Mac, you can also download the `.pkg` file and install that.
+  On Mac, you can also download the `.pkg` file and install that by double-clicking.
 </details>
 
 <details>
@@ -85,7 +88,7 @@ In more detail (click on a section to expand it):
   to the exercise directory. For example, if you extracted the `.zip` contents
   to `C:\Users\jane\Desktop`, run
   ```
-  cd C:\Users\jane\Desktop\cosyne-tutorial-2022-main
+  cd C:\Users\jane\Desktop\cosyne-tutorial-2022\
   ```
   
 - Alternatively, you can directly open a terminal in the right directory
@@ -107,7 +110,7 @@ In more detail (click on a section to expand it):
 <details>
 <summary>4. <b>Install dependencies</b></summary>
 
-- With your terminal pointing to the exercise directory, run the following command:
+- With your Terminal pointing to the exercise directory, run the following command:
   ```
   conda env create -f environment_brian.yml
   ```
@@ -116,7 +119,7 @@ In more detail (click on a section to expand it):
 - If any errors pop up, retry the command with elevated privileges.
   - On Windows, close the terminal and reopen it with "Run as Administrator".
   - On most other OSes (including MacOS), prepend `sudo` to the command;
-    i.e. `sudo conda env create …`.
+    i.e. `sudo conda env create …`, and enter the password when prompted.
 
 - When the installation was succesful, run
   ```
@@ -147,4 +150,10 @@ In more detail (click on a section to expand it):
 
 - When you are done with the notebooks, you can exit the notebook server application
   that is still running in your terminal with `Ctrl`-`C`
+</details>
+
+<details>
+<summary>6. <b>Repeat for Exercise Part 2</b></summary>
+
+- For Part 2 of the tutorial (using pytorch), repeat steps 4 & 5, but replace `cosyne22_brian` with `cosyne22_torch`.
 </details>
