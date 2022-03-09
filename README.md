@@ -12,9 +12,9 @@ Wi-Fi might be flaky and not able to handle all participants simultaneously.
 
 ## Run in the cloud ☁
 
-If you have a Google account, launch with Colab.
-If you are in a country that blocks Google, such as China, you can try
-using Kaggle instead.
+If you have a Google account, you can launch with Colab.
+If you are in a country that blocks Google, such as China, use Kaggle.
+(To have the notebook kernel on Kaggle persist more than 15', register for a Kaggle account).
 
 **Part 1 • "Classical" spiking neural networks**
 
