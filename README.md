@@ -33,6 +33,17 @@ Colab offers a better experience than Kaggle or the GitHub notebook renderer.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neural-reckoning/cosyne-tutorial-2022/blob/main/3-surrogate-sound-localisation.ipynb) 
 [![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/neural-reckoning/cosyne-tutorial-2022/main/3-surrogate-sound-localisation.ipynb)
 
+<details>
+<summary><b>Solutions</b></summary>
+
+* Coincidence detection (and exercise): 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neural-reckoning/cosyne-tutorial-2022/blob/main/2-coincidence-detection-solution.ipynb) 
+[![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/neural-reckoning/cosyne-tutorial-2022/main/2-coincidence-detection-solution.ipynb)
+* Surrogate sound localisation (and exercise):
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neural-reckoning/cosyne-tutorial-2022/blob/main/3-surrogate-sound-localisation-solution.ipynb) 
+[![Open In kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://raw.githubusercontent.com/neural-reckoning/cosyne-tutorial-2022/main/3-surrogate-sound-localisation-solution.ipynb)
+</details>
+
 ## Run locally 💻 
 
 Follow the instructions below to install the software 
