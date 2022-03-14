@@ -8,6 +8,8 @@ We recommend following the installation instructions for running locally
 (found [below](#run-locally-)) before the conference: the on-site
 Wi-Fi might be flaky and not able to handle all participants simultaneously.
 
+Slides are available [here](slides.pdf).
+
 
 
 ## Run in the cloud ☁
