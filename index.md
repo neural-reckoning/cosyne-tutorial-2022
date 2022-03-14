@@ -1,15 +1,17 @@
-# Suggested steps before the tutorial
+# Cosyne Tutorial 2022 - Spiking Neural Networks
+
+## Suggested steps before the tutorial
 
 * Download the code and install. Follow the instructions [here](https://github.com/neural-reckoning/cosyne-tutorial-2022).
 * [Watch the presentations](https://www.youtube.com/playlist?list=PL09WqqDbQWHGJd7Il3yVxiBts5nRSxvJ4) to have more time to spend on the exercises.
 
-# Course materials
+## Course materials
 
 * [Slides](https://raw.githubusercontent.com/neural-reckoning/cosyne-tutorial-2022/main/slides.pdf)
 * [Recorded presentation](https://www.youtube.com/playlist?list=PL09WqqDbQWHGJd7Il3yVxiBts5nRSxvJ4)
 * [Code for exercises](https://github.com/neural-reckoning/cosyne-tutorial-2022) (and installation instructions)
 
-# Suggested reading links
+## Suggested reading links
 
 * [General, free computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html)
 * [Neuronal Dynamics (Gerstner et al.)](https://neuronaldynamics.epfl.ch/) - excellent free textbook covers much of part 1.
