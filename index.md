@@ -1,3 +1,8 @@
+# Suggested steps before the tutorial
+
+* Download the code and install. Follow the instructions [here](https://github.com/neural-reckoning/cosyne-tutorial-2022).
+* [Watch the presentations](https://www.youtube.com/playlist?list=PL09WqqDbQWHGJd7Il3yVxiBts5nRSxvJ4) to have more time to spend on the exercises.
+
 # Course materials
 
 * [Slides](https://raw.githubusercontent.com/neural-reckoning/cosyne-tutorial-2022/main/slides.pdf)
