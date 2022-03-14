@@ -1,40 +1,24 @@
-# Recruiting teaching assistants
+# Course materials
 
-If you're going to be going to the [Cosyne meeting](https://www.cosyne.org/) in 2022, and you're interested in taking part as a teaching assistant for the [tutorial](https://www.cosyne.org/tutorials), please register your interest on the [sign up form](https://forms.office.com/r/jzV2FY8nB0) as soon as possible! Teaching assistants will have the registration fee for the main meeting waived.
+* [Slides](https://raw.githubusercontent.com/neural-reckoning/cosyne-tutorial-2022/main/slides.pdf)
+* [Recorded presentation](https://www.youtube.com/playlist?list=PL09WqqDbQWHGJd7Il3yVxiBts5nRSxvJ4)
+* [Code for exercises](https://github.com/neural-reckoning/cosyne-tutorial-2022) (and installation instructions)
 
-You will need to be available on the day of the tutorial, have time to go through the material beforehand (including trying the exercises and familiarising yourself with the answers), and taking part in one or two (online) practice sessions.
+# Suggested reading links
 
-* [Teaching assistant sign up form](https://forms.office.com/r/jzV2FY8nB0)
-
-# Draft course outline
-
-The following is just a very brief outline of the course while the details are being finalised. Note that this is a draft and is still subject to change. It's just to give an idea of roughly what will be included.
-
-**Part 1 - Lecture**
-
-* Brief introduction to spiking neural networks.
-* A small amount on biology.
-* The leaky integrate-and-fire neuron (with interactive web-based demo).
-* Temporal dynamics, how it works with an adaptive-LIF neuron, and how it can be used for example to implement onset sensitivity (with interactive web-based demo).
-* Coincidence detection, how it works in an LIF neuron and how it can be used for sound localisation (with interactive web-based demo).
-
-**Part 1 - Exercises**
-
-* Competition to build the best spiking neural network to localise sounds.
-* Will provide a Jupyter notebook with template and testing code.
-* Deepnote for running code.
-* At the end, a quick survey of how well everyone did and presentation of the winner’s code.
-
-**Part 2 - Lecture**
-
-* Learning with SNNs, a quick rundown of classical approaches including STDP and reservoirs.
-* Machine learning and gradient descent.
-* The problem with gradient descent for SNNs - non-differentiability.
-* Quick survey of some tricks that have been tried.
-* Focus on surrogate gradient descent.
-* Coding it up in PyTorch.
-* Discussion of future prospects and some example projects that people might like to try.
-
-**Part 2 - Exercises**
-
-* To be decided, but will do it as for the previous exercise with a pre-made template and Deepnote.
+* [General, free computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html)
+* [Neuronal Dynamics (Gerstner et al.)](https://neuronaldynamics.epfl.ch/) - excellent free textbook covers much of part 1.
+* [SPyTorch tutorial (Zenke)](https://github.com/fzenke/spytorch) - the place to go for surrogate gradient descent
+* SNUFA
+  - [SNUFA workshop](http://snufa.net/) the spiking neural network community
+  - [http://neural-reckoning.org/pub_snufa_review.html](http://neural-reckoning.org/pub_snufa_review.html) the short review paper after the first SNUFA meeting
+  - [SNUFA Discord](https://discord.gg/xAC7V227yP) join the community!
+* Some of my related papers:
+  - [Neural heterogeneity promotes robust learning](http://neural-reckoning.org/pub_heterogeneity.html)
+  - [Sparse spiking gradient descent](http://neural-reckoning.org/pub_sparse_spiking_gradient_descent.html)
+  - [Spike-timing-based computation in sound localization](http://neural-reckoning.org/pub_spike_timing_sound_loc.html)
+  - [Learning to localise sounds with spiking neural networks](http://neural-reckoning.org/pub_learning_localisation.html)
+  - [Decoding neural responses to temporal cues for sound localization](http://neural-reckoning.org/pub_decoding_soundloc.html)
+* [Dynamical systems in neuroscience (Izhikevich)](https://mitpress.mit.edu/books/dynamical-systems-neuroscience) - the definitive reference on the dynamical systems approach, long and unfortunately not free.
+* [3Blue1Brown on Neural Networks](https://www.3blue1brown.com/topics/neural-networks) - good, easy to watch video series on neural networks, backpropagation, etc.
+* [Brian simulator](https://briansimulator.org/) - it's quite good you know
