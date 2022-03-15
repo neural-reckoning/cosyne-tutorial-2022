@@ -29,3 +29,37 @@
 * [Dynamical systems in neuroscience (Izhikevich)](https://mitpress.mit.edu/books/dynamical-systems-neuroscience) - the definitive reference on the dynamical systems approach, long and unfortunately not free.
 * [3Blue1Brown on Neural Networks](https://www.3blue1brown.com/topics/neural-networks) - good, easy to watch video series on neural networks, backpropagation, etc.
 * [Brian simulator](https://briansimulator.org/) - it's quite good you know
+* [SPyTorch in Julia](https://github.com/briandepasquale/spytorch-flux.jl) contributed by Brian DePasquale
+
+## Credits
+
+Thank you to Cosyne tutorial organisers [Kanaka Rajan](http://labs.neuroscience.mssm.edu/project/rajan-lab/) and [Il Memming Park](http://www.memming.com/).
+
+Thank you to [Marcus Ghosh](https://neural-reckoning.org/marcus_ghosh.html) and [Nicolas Perez](https://neural-reckoning.org/nicolas_perez.html) for helping create the slides and exercises.
+
+Thank you [Friedemann Zenke](https://fzenke.net/) for the wonderful [SPyTorch tutorial](https://github.com/fzenke/spytorch) which has opened up this work to so many people.
+
+Thank you to all the TAs on the course:
+
+* Tomas Fiers
+* Brian DePasquale
+* Juan Luis Riquelme
+* Gregory Handy
+* Manuel Beiran
+* Yigit Demirag
+* Erica Shook
+* Guangyao Qi
+* Zhenrui Liao
+* Albert Qü
+* Yuhan Helena Liu
+* Klara Kaleb
+* Bill Podlaski
+* Amelia Christensen
+* Friedrich Schuessler
+* Richard Gao
+* Filip Vercruysse
+* Yuhong Echo Liu
+* Marcus Ghosh
+* Greta Horvathova
+* Gabriel Bena
+* Rory Byrne
