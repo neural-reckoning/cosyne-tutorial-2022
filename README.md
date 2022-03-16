@@ -48,8 +48,10 @@ Colab offers a better experience than Kaggle or the GitHub notebook renderer.
 
 ## Run locally 💻 
 
-Follow the instructions below to install the software 
+Follow the instructions below to install the software that is
 necessary to run the exercise notebooks on your own computer.
+
+More detailed instructions are provided further below.
 
 In short, if you already use `conda`:
 download this repository, and in this directory, run:
@@ -67,7 +69,9 @@ conda activate cosyne22_torch
 jupyter notebook
 ```
 
-In more detail (click on a section to expand it):
+### Detailed instructions
+
+Click on a section to expand it.
 
 <details>
 <summary>1. <b>Install Conda</b></summary>
