@@ -1,5 +1,7 @@
 # Cosyne Tutorial 2022
 
+[![DOI](https://zenodo.org/badge/451483302.svg)](https://zenodo.org/badge/latestdoi/451483302)
+
 These are the exercises for the [COSYNE](https://www.cosyne.org/) 2022 Tutorial, _Spiking Neural Network Models in Neuroscience_, by Dan Goodman.
 
 The exercises are in Python, in the Jupyter Notebook format.
@@ -191,3 +193,9 @@ Click on a section to expand it.
 - The reason we need two separate environments is that PyTorch 
   is difficult to install in the same environment as Brian.
 </details>
+
+## Citing this
+
+Please cite the Zenodo DOI.
+
+[![DOI](https://zenodo.org/badge/451483302.svg)](https://zenodo.org/badge/latestdoi/451483302)
